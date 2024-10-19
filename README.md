@@ -1,6 +1,6 @@
 # Catalog_Uday_Pratap_Singh
 
-This project implements a simplified version of **Shamir's Secret Sharing** algorithm using Lagrange interpolation. The goal is to decode a secret value (constant term 'c') from a set of encoded polynomial points provided in JSON format.
+This project implements a simplified version of **Secret Sharing** algorithm using Lagrange interpolation. The goal is to decode a secret value (constant term 'c') from a set of encoded polynomial points provided in JSON format.
 
 ## Table of Contents
 - [Introduction](#introduction)
