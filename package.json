@@ -1,0 +1,11 @@
+{
+  "name": "uday_pratap_singh",
+  "version": "1.0.0",
+  "description": "Catalog coding round",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Uday Pratap Singh",
+  "license": "ISC"
+}
